@@ -1,0 +1,104 @@
+Request URL:
+https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+150.171.73.16:443
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+authorization
+access-control-allow-methods:
+OPTIONS,GET,POST,PATCH,PUT,DELETE
+access-control-allow-origin:
+*
+access-control-expose-headers:
+ActivityId,X-TFS-Session,X-MS-ContinuationToken,X-VSS-GlobalMessage,ETag,Server,X-MSEdge-Ref,X-TFS-ProcessId,X-VSS-E2EID
+access-control-expose-headers:
+Request-Context
+access-control-max-age:
+3600
+activityid:
+bfb37235-e59d-4d7f-b953-7b6f5da41602
+cache-control:
+no-cache, no-store, must-revalidate
+content-encoding:
+gzip
+content-length:
+38134
+content-type:
+application/json; charset=utf-8; api-version=3.0-preview.1
+date:
+Sun, 03 Aug 2025 01:18:23 GMT
+expires:
+-1
+p3p:
+CP="CAO DSP COR ADMa DEV CONo TELo CUR PSA PSD TAI IVDo OUR SAMi BUS DEM NAV STA UNI COM INT PHY ONL FIN PUR LOC CNT"
+pragma:
+no-cache
+request-context:
+appId=cid-v1:84715e31-583a-4723-a46d-946169b2f4a8
+set-cookie:
+VstsSession=%7B%22PersistentSessionId%22%3A%22d0190aaf-2b3e-44aa-be11-4317906d4e87%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%7D%7D;SameSite=None; domain=.visualstudio.com; expires=Mon, 03-Aug-2026 01:18:23 GMT; path=/; secure; HttpOnly
+strict-transport-security:
+max-age=31536000; includeSubDomains
+vary:
+Accept-Encoding
+x-cache:
+CONFIG_NOCACHE
+x-content-type-options:
+nosniff
+x-msedge-ref:
+Ref A: 6AA01F2B487A4F49A4A2EF5D9534FD05 Ref B: JNB231060415019 Ref C: 2025-08-03T01:18:23Z
+x-tfs-processid:
+25806a90-5ea7-4b80-837d-6a0dd6b2acd5
+x-tfs-session:
+bfb37235-e59d-4d7f-b953-7b6f5da41602
+x-vss-e2eid:
+bfb37235-e59d-4d7f-b953-7b6f5da41602
+x-vss-senderdeploymentid:
+2663b13f-50e3-a655-a159-22f6f4725fab
+:authority:
+marketplace.visualstudio.com
+:method:
+POST
+:path:
+/_apis/public/gallery/extensionquery
+:scheme:
+https
+accept:
+application/json;api-version=3.0-preview.1
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-US
+content-length:
+261
+content-type:
+application/json
+origin:
+vscode-file://vscode-app
+priority:
+u=1, i
+sec-ch-ua:
+"Not:A-Brand";v="24", "Chromium";v="134"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+VSCode 1.102.3 (Code)
+vscode-sessionid:
+7e1af069174ec5e096f08a6e1d5191430ebb970fc1b2141488038a1c356fb275
+x-market-client-id:
+VSCode 1.102.3
+x-market-user-id:
+2ae30ae6-3d12-43dc-8043-91a78f4e6539
