@@ -1,0 +1,1065 @@
+Module metadata package name: com.google.android.modulemetadata
+Duration of 'DUMPSYS CRITICAL': 1.84s
+Duration of 'EVENT LOG': 0.09s
+Duration of 'STATS LOG': 0.02s
+Duration of 'RADIO LOG': 0.16s
+logcat: Logcat read failure: No such file or directory
+*** command 'logcat -L -b all -v threadtime -v printable -v uid -d *:v' failed: exit code 1
+Start thread pool:1
+Adding dir /cache/recovery (recursive: 1)
+Adding dir /data/misc/recovery (recursive: 1)
+Adding dir /data/misc/update_engine_log (recursive: 1)
+Adding dir /data/misc/update_engine/prefs (recursive: 1)
+Adding dir /data/misc/logd (recursive: 0)
+/data/misc/logd: No such file or directory
+Adding dir /data/misc/prereboot (recursive: 0)
+MOUNT INFO: 94 entries added to zip file
+Duration of 'LPDUMP': 1.03s
+Duration of 'DEVICE-MAPPER': 1.05s
+Adding dir /metadata/ota (recursive: 1)
+execvp on command 'iotop -n 1 -m 100' failed (error: No such file or directory)
+*** command 'iotop -n 1 -m 100' failed: exit code 1
+Duration of 'Dmabuf dump': 1.22s
+Warning: no Dalvik processes found to dump stacks
+Duration of 'DUMP TRACES': 22.30s
+Duration of 'Wait for ': 18.47s
+shutdown thread pool
+Start thread pool:3
+Warning: Skipping "android.frameworks.cameraservice.service@2.0::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.cameraservice.service@2.1::ICameraService/default": cannot be fetched from service manager (null)
+section 1000 status 1
+Warning: Skipping "android.frameworks.cameraservice.service@2.2::ICameraService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.displayservice@1.0::IDisplayService/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.frameworks.sensorservice@1.0::ISensorManager/default": cannot be fetched from service manager (null)
+section 1000 status 2
+section 1002 status 1
+Warning: Skipping "android.hardware.boot@1.0::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.1::IBootControl/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.boot@1.2::IBootControl/default": cannot be fetched from service manager (null)
+No IDumpstateDevice AIDL implementation
+No IDumpstateDevice HIDL implementation
+Could not find IDumpstateDevice implementation
+Failed to unlink file (/data/user_de/0/com.android.shell/files/bugreports/dumpstate_board.bin): No such file or directory
+Failed to unlink file (/data/user_de/0/com.android.shell/files/bugreports/dumpstate_board.txt): No such file or directory
+section 1002 status 2
+section 1109 status 1
+section 1109 status 2
+section 1110 status 1
+section 1110 status 2
+section 1111 status 1
+section 1111 status 2
+section 1112 status 1
+section 1112 status 2
+section 1113 status 1
+section 1113 status 2
+section 1114 status 1
+section 1114 status 2
+section 1115 status 1
+section 1115 status 2
+section 1116 status 1
+Warning: Skipping "android.hardware.gatekeeper@1.0::IGatekeeper/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.omx@1.0::IOmx/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.media.omx@1.0::IOmxStore/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.0::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.1::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio.config@1.3::IRadioConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.0::ISap/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.1::ISap/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.2::ISap/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.3::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.4::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.5::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.radio@1.6::IRadio/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.0::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.0::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.1::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.1::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.2::ISecureElement/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.secure_element@1.2::ISecureElement/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb.gadget@1.0::IUsbGadget/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb.gadget@1.1::IUsbGadget/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.0::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.1::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.2::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hardware.usb@1.3::IUsb/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.allocator@1.0::IAllocator/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/AgpsDebugInterface": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/AgpsInterface": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/SIM1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/SIM2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/ashmem": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/clearkey": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/em1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/em2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/em3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsAospSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsAospSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsAospSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/imsSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkAssist1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkAssist2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkAssist3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkCap1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkCap2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkCap3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkEm1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkEm2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkEm3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRcs1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRcs2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRcs3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRsu1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRsu2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkRsu3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSe1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSe2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSe3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSmartRatSwitch1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSmartRatSwitch2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtkSmartRatSwitch3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_agps2framework": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_agpsd2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_debugService2agpsd": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_debugService2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_framework2agps": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lbs_log_v2s": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_agps": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_bt": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_ipaddr": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_lbs": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_network": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_sensor": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_lppe_socket_wlan": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_meta2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2mtklogger": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mnld2nlputils": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/mtk_mtklogger2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/se1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/se2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/se3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot1": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot2": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/slot3": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/software": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.base@1.0::IBase/widevine": cannot be fetched from service manager (null)
+Warning: Skipping "android.hidl.token@1.0::ITokenManager/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.0::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.net.netd@1.1::INetd/default": cannot be fetched from service manager (null)
+Warning: Skipping "android.system.wifi.keystore@1.0::IKeystore/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.goodix.hardware.biometrics.fingerprint@2.1::IGoodixFingerprintDaemon/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.bgservice@1.0::IBGService/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsDebugInterface": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsInterface": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agps2framework": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agpsd2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2agpsd": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_framework2agps": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lbs_log_v2s": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_agps": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_bt": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_ipaddr": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_lbs": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_network": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_sensor": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_wlan": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_meta2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2debugService": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2mtklogger": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2nlputils": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mtklogger2mnld": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch1": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch2": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch3": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.netdagent@1.0::INetdagent/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nvram@1.0::INvram/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nvram@1.1::INvram/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.nwk_opt@1.0::INwkOpt/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.paytrigger@1.0::IPayTrigger/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.0::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.10::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.11::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.12::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.13::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.14::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.15::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.1::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.2::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.3::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.4::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.5::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.6::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.7::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.8::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.pq@2.9::IPictureQuality/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.nxp.nxpnfc@2.0::INxpNfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.tms.tmsnfc@1.0::ITmsNfc/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.security.deviceauthen@2.0::IDeviceAuthen2/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.security.hap@1.0::IHap/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.security.trancriticalparavfy@1.0::ITranCriticalParaVfy/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.trancam.trancamserver@1.0::ITrancamserver/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.trandatacenter@1.0::ITranDataCenter/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.tranlog@1.0::ITranLog/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.tranlogconfig@1.0::ITranLogConfig/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.hardware.transtorage.storage@1.0::IStorage/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.transsion.performance.sched@1.0::ITransSched/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.trustonic.tee.tui@1.0::ITui/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.trustonic.tee@1.0::ITee/default": cannot be fetched from service manager (null)
+Warning: Skipping "vendor.trustonic.tee@1.1::ITee/default": cannot be fetched from service manager (null)
+*** command 'lshal --all --types=all' failed: exit code 136
+Duration of 'HARDWARE HALS': 0.81s
+android.frameworks.cameraservice.service@2.0::ICameraService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.cameraservice.service@2.0::ICameraService/default' failed: exit code 128
+android.frameworks.cameraservice.service@2.1::ICameraService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.cameraservice.service@2.1::ICameraService/default' failed: exit code 128
+android.frameworks.cameraservice.service@2.2::ICameraService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.cameraservice.service@2.2::ICameraService/default' failed: exit code 128
+android.frameworks.displayservice@1.0::IDisplayService/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.displayservice@1.0::IDisplayService/default' failed: exit code 128
+android.frameworks.sensorservice@1.0::ISensorManager/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.frameworks.sensorservice@1.0::ISensorManager/default' failed: exit code 128
+Duration of 'DUMP CHECKINS': 0.92s
+android.hardware.boot@1.0::IBootControl/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.boot@1.0::IBootControl/default' failed: exit code 128
+android.hardware.boot@1.1::IBootControl/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.boot@1.1::IBootControl/default' failed: exit code 128
+android.hardware.boot@1.2::IBootControl/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.boot@1.2::IBootControl/default' failed: exit code 128
+android.hardware.gatekeeper@1.0::IGatekeeper/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.gatekeeper@1.0::IGatekeeper/default' failed: exit code 128
+Duration of 'CPU INFO': 1.93s
+android.hardware.media.omx@1.0::IOmx/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.omx@1.0::IOmx/default' failed: exit code 128
+android.hardware.media.omx@1.0::IOmxStore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.media.omx@1.0::IOmxStore/default' failed: exit code 128
+android.hardware.radio.config@1.0::IRadioConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio.config@1.0::IRadioConfig/default' failed: exit code 128
+android.hardware.radio.config@1.1::IRadioConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio.config@1.1::IRadioConfig/default' failed: exit code 128
+android.hardware.radio.config@1.3::IRadioConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio.config@1.3::IRadioConfig/default' failed: exit code 128
+android.hardware.radio@1.0::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.0::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.0::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.0::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.0::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.0::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.0::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.0::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.0::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.0::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.0::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.0::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.0::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.0::ISap/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.0::ISap/slot2' failed: exit code 128
+section 1116 status 2
+android.hardware.radio@1.0::ISap/slot3 does not exist, or no permission to connect.
+section 2001 status 1
+*** command 'lshal debug -E android.hardware.radio@1.0::ISap/slot3' failed: exit code 128
+android.hardware.radio@1.1::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/em1' failed: exit code 128
+section 2001 status 2
+section 2002 status 1
+section 2002 status 2
+section 2003 status 1
+android.hardware.radio@1.1::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.1::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.1::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.1::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.1::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.1::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.1::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.1::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.1::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.1::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.1::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.1::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.1::ISap/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::ISap/slot2' failed: exit code 128
+android.hardware.radio@1.1::ISap/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.1::ISap/slot3' failed: exit code 128
+android.hardware.radio@1.2::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.2::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.2::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.2::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.2::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.2::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.2::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.2::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.2::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.2::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.2::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.2::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.2::ISap/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::ISap/slot1' failed: exit code 128
+android.hardware.radio@1.2::ISap/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::ISap/slot2' failed: exit code 128
+android.hardware.radio@1.2::ISap/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.2::ISap/slot3' failed: exit code 128
+android.hardware.radio@1.3::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.3::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.3::IRadio/em3 does not exist, or no permission to connect.
+Duration of 'PROCESSES AND THREADS': 1.00s
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.3::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.3::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.3::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.3::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.3::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.3::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.3::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.3::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.3::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.3::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.4::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.4::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.4::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.4::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.4::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.4::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.4::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.4::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.4::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.4::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.4::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.4::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.4::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.5::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.5::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.5::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.5::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.5::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.5::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.5::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.5::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.5::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.5::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.5::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.5::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.5::IRadio/slot3' failed: exit code 128
+android.hardware.radio@1.6::IRadio/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/em1' failed: exit code 128
+android.hardware.radio@1.6::IRadio/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/em2' failed: exit code 128
+android.hardware.radio@1.6::IRadio/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/em3' failed: exit code 128
+android.hardware.radio@1.6::IRadio/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/imsAospSlot1' failed: exit code 128
+android.hardware.radio@1.6::IRadio/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/imsAospSlot2' failed: exit code 128
+android.hardware.radio@1.6::IRadio/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/imsAospSlot3' failed: exit code 128
+android.hardware.radio@1.6::IRadio/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/se1' failed: exit code 128
+android.hardware.radio@1.6::IRadio/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/se2' failed: exit code 128
+android.hardware.radio@1.6::IRadio/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/se3' failed: exit code 128
+android.hardware.radio@1.6::IRadio/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/slot1' failed: exit code 128
+android.hardware.radio@1.6::IRadio/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/slot2' failed: exit code 128
+android.hardware.radio@1.6::IRadio/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.radio@1.6::IRadio/slot3' failed: exit code 128
+android.hardware.secure_element@1.0::ISecureElement/SIM1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.0::ISecureElement/SIM1' failed: exit code 128
+android.hardware.secure_element@1.0::ISecureElement/SIM2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.0::ISecureElement/SIM2' failed: exit code 128
+android.hardware.secure_element@1.1::ISecureElement/SIM1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.1::ISecureElement/SIM1' failed: exit code 128
+android.hardware.secure_element@1.1::ISecureElement/SIM2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.1::ISecureElement/SIM2' failed: exit code 128
+android.hardware.secure_element@1.2::ISecureElement/SIM1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.2::ISecureElement/SIM1' failed: exit code 128
+android.hardware.secure_element@1.2::ISecureElement/SIM2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.secure_element@1.2::ISecureElement/SIM2' failed: exit code 128
+android.hardware.usb.gadget@1.0::IUsbGadget/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb.gadget@1.0::IUsbGadget/default' failed: exit code 128
+android.hardware.usb.gadget@1.1::IUsbGadget/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb.gadget@1.1::IUsbGadget/default' failed: exit code 128
+android.hardware.usb@1.0::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.0::IUsb/default' failed: exit code 128
+section 2003 status 2
+section 2004 status 1
+section 2004 status 2
+section 2005 status 1
+android.hardware.usb@1.1::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.1::IUsb/default' failed: exit code 128
+android.hardware.usb@1.2::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.2::IUsb/default' failed: exit code 128
+android.hardware.usb@1.3::IUsb/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hardware.usb@1.3::IUsb/default' failed: exit code 128
+android.hidl.allocator@1.0::IAllocator/ashmem does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.allocator@1.0::IAllocator/ashmem' failed: exit code 128
+android.hidl.base@1.0::IBase/AgpsDebugInterface does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/AgpsDebugInterface' failed: exit code 128
+android.hidl.base@1.0::IBase/AgpsInterface does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/AgpsInterface' failed: exit code 128
+android.hidl.base@1.0::IBase/SIM1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/SIM1' failed: exit code 128
+android.hidl.base@1.0::IBase/SIM2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/SIM2' failed: exit code 128
+android.hidl.base@1.0::IBase/ashmem does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/ashmem' failed: exit code 128
+android.hidl.base@1.0::IBase/clearkey does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/clearkey' failed: exit code 128
+android.hidl.base@1.0::IBase/em1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/em1' failed: exit code 128
+android.hidl.base@1.0::IBase/em2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/em2' failed: exit code 128
+android.hidl.base@1.0::IBase/em3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/em3' failed: exit code 128
+android.hidl.base@1.0::IBase/imsAospSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsAospSlot1' failed: exit code 128
+android.hidl.base@1.0::IBase/imsAospSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsAospSlot2' failed: exit code 128
+android.hidl.base@1.0::IBase/imsAospSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsAospSlot3' failed: exit code 128
+android.hidl.base@1.0::IBase/imsSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsSlot1' failed: exit code 128
+android.hidl.base@1.0::IBase/imsSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsSlot2' failed: exit code 128
+android.hidl.base@1.0::IBase/imsSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/imsSlot3' failed: exit code 128
+android.hidl.base@1.0::IBase/internal/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/internal/0' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkAssist1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkAssist1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkAssist2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkAssist2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkAssist3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkAssist3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkCap1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkCap1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkCap2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkCap2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkCap3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkCap3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkEm1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkEm1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkEm2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkEm2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkEm3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkEm3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRcs1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRcs1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRcs2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRcs2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRcs3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRcs3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRsu1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRsu1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRsu2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRsu2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkRsu3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkRsu3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSe1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSe1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSe2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSe2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSe3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSe3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSlot1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSlot2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSlot3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSmartRatSwitch1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSmartRatSwitch1' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSmartRatSwitch2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSmartRatSwitch2' failed: exit code 128
+android.hidl.base@1.0::IBase/mtkSmartRatSwitch3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtkSmartRatSwitch3' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_agps2framework does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_agps2framework' failed: exit code 128
+section 2005 status 2
+section 2006 status 1
+android.hidl.base@1.0::IBase/mtk_agpsd2debugService does not exist, or no permission to connect.
+section 2006 status 2
+section 2007 status 1
+section 2007 status 2
+section 3000 status 1
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_agpsd2debugService' failed: exit code 128
+section 3000 status 2
+section 3002 status 1
+android.hidl.base@1.0::IBase/mtk_debugService2agpsd does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_debugService2agpsd' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_debugService2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_debugService2mnld' failed: exit code 128
+section 3002 status 2
+section 3004 status 1
+android.hidl.base@1.0::IBase/mtk_framework2agps does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_framework2agps' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lbs_log_v2s does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lbs_log_v2s' failed: exit code 128
+section 3004 status 2
+section 3005 status 1
+android.hidl.base@1.0::IBase/mtk_lppe_socket_agps does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_agps' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_bt does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_bt' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_ipaddr does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_ipaddr' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_lbs does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_lbs' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_network does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_network' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_sensor does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_sensor' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_lppe_socket_wlan does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_lppe_socket_wlan' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_meta2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_meta2mnld' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_mnld2debugService does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_mnld2debugService' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_mnld2mtklogger does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_mnld2mtklogger' failed: exit code 128
+android.hidl.base@1.0::IBase/mtk_mnld2nlputils does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_mnld2nlputils' failed: exit code 128
+section 3005 status 2
+section 3006 status 1
+section 3006 status 2
+section 3007 status 1
+android.hidl.base@1.0::IBase/mtk_mtklogger2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/mtk_mtklogger2mnld' failed: exit code 128
+section 3007 status 2
+section 3008 status 1
+android.hidl.base@1.0::IBase/se1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/se1' failed: exit code 128
+android.hidl.base@1.0::IBase/se2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/se2' failed: exit code 128
+android.hidl.base@1.0::IBase/se3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/se3' failed: exit code 128
+android.hidl.base@1.0::IBase/slot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/slot1' failed: exit code 128
+android.hidl.base@1.0::IBase/slot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/slot2' failed: exit code 128
+section 3008 status 2
+section 3009 status 1
+section 3009 status 2
+section 3010 status 1
+android.hidl.base@1.0::IBase/slot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/slot3' failed: exit code 128
+android.hidl.base@1.0::IBase/software does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/software' failed: exit code 128
+android.hidl.base@1.0::IBase/widevine does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.base@1.0::IBase/widevine' failed: exit code 128
+debug() FAILED on android.hidl.manager@1.2::IServiceManager/default: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+android.hidl.token@1.0::ITokenManager/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.hidl.token@1.0::ITokenManager/default' failed: exit code 128
+android.system.net.netd@1.0::INetd/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.net.netd@1.0::INetd/default' failed: exit code 128
+android.system.net.netd@1.1::INetd/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.net.netd@1.1::INetd/default' failed: exit code 128
+android.system.wifi.keystore@1.0::IKeystore/default does not exist, or no permission to connect.
+*** command 'lshal debug -E android.system.wifi.keystore@1.0::IKeystore/default' failed: exit code 128
+vendor.goodix.hardware.biometrics.fingerprint@2.1::IGoodixFingerprintDaemon/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.goodix.hardware.biometrics.fingerprint@2.1::IGoodixFingerprintDaemon/default' failed: exit code 128
+section 3010 status 2
+section 3011 status 1
+vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.bluetooth.audio@2.1::IBluetoothAudioProvidersFactory/default' failed: exit code 128
+vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.bluetooth.audio@2.2::IBluetoothAudioProvidersFactory/default' failed: exit code 128
+vendor.mediatek.hardware.camera.bgservice@1.0::IBGService/internal/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.camera.bgservice@1.0::IBGService/internal/0' failed: exit code 128
+vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.camera.bgservice@1.1::IBGService/internal/0' failed: exit code 128
+vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.camera.isphal@1.0::IISPModule/internal/0' failed: exit code 128
+vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.camera.isphal@1.1::IISPModule/internal/0' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsDebugInterface does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsDebugInterface' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsInterface does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/AgpsInterface' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agps2framework does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agps2framework' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agpsd2debugService does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_agpsd2debugService' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2agpsd does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2agpsd' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_debugService2mnld' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_framework2agps does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_framework2agps' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lbs_log_v2s does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lbs_log_v2s' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_agps does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_agps' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_bt does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_bt' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_ipaddr does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_ipaddr' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_lbs does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_lbs' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_network does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_network' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_sensor does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_sensor' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_wlan does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_lppe_socket_wlan' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_meta2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_meta2mnld' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2debugService does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2debugService' failed: exit code 128
+section 3011 status 2
+section 3012 status 1
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2mtklogger does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2mtklogger' failed: exit code 128
+section 3012 status 2
+section 3013 status 1
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2nlputils does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mnld2nlputils' failed: exit code 128
+vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mtklogger2mnld does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.lbs@1.0::ILbs/mtk_mtklogger2mnld' failed: exit code 128
+section 3013 status 2
+section 3014 status 1
+section 3014 status 2
+section 3015 status 1
+section 3015 status 2
+section 3016 status 1
+section 3016 status 2
+section 3017 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot1' failed: exit code 128
+section 3017 status 2
+section 3019 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/imsSlot3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkAssist3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap2' failed: exit code 128
+section 3019 status 2
+section 3020 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkCap3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm2' failed: exit code 128
+section 3020 status 2
+section 3021 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkEm3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRcs3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkRsu3' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSe3' failed: exit code 128
+section 3021 status 2
+section 3027 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot1' failed: exit code 128
+section 3027 status 2
+section 3028 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot2' failed: exit code 128
+section 3028 status 2
+section 3029 status 1
+section 3029 status 2
+section 3030 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot3 does not exist, or no permission to connect.
+section 3030 status 2
+section 3031 status 1
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSlot3' failed: exit code 128
+section 3031 status 2
+section 3032 status 1
+section 3032 status 2
+section 3033 status 1
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch1 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch1' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch2 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch2' failed: exit code 128
+vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch3 does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.mtkradioex@3.0::IMtkRadioEx/mtkSmartRatSwitch3' failed: exit code 128
+section 3033 status 2
+section 3034 status 1
+section 3034 status 2
+section 3035 status 1
+section 3035 status 2
+section 3036 status 1
+section 3036 status 2
+section 3037 status 1
+vendor.mediatek.hardware.netdagent@1.0::INetdagent/default does not exist, or no permission to connect.
+section 3037 status 2
+section 3038 status 1
+*** command 'lshal debug -E vendor.mediatek.hardware.netdagent@1.0::INetdagent/default' failed: exit code 128
+section 3038 status 2
+section 3039 status 1
+section 3039 status 2
+section 3040 status 1
+section 3040 status 2
+section 3041 status 1
+section 3041 status 2
+section 3042 status 1
+section 3042 status 2
+section 3043 status 1
+section 3043 status 2
+section 3044 status 1
+section 3044 status 2
+section 3045 status 1
+section 3045 status 2
+section 3046 status 1
+section 3046 status 2
+section 3047 status 1
+vendor.mediatek.hardware.nvram@1.0::INvram/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.nvram@1.0::INvram/default' failed: exit code 128
+section 3047 status 2
+section 3049 status 1
+vendor.mediatek.hardware.nvram@1.1::INvram/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.nvram@1.1::INvram/default' failed: exit code 128
+vendor.mediatek.hardware.nwk_opt@1.0::INwkOpt/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.nwk_opt@1.0::INwkOpt/default' failed: exit code 128
+vendor.mediatek.hardware.paytrigger@1.0::IPayTrigger/default does not exist, or no permission to connect.
+section 3049 status 2
+section 3050 status 1
+*** command 'lshal debug -E vendor.mediatek.hardware.paytrigger@1.0::IPayTrigger/default' failed: exit code 128
+section 3050 status 2
+section 3051 status 1
+vendor.mediatek.hardware.pq@2.0::IPictureQuality/default does not exist, or no permission to connect.
+section 3051 status 2
+section 3052 status 1
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.0::IPictureQuality/default' failed: exit code 128
+section 3052 status 2
+section 3053 status 1
+vendor.mediatek.hardware.pq@2.10::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.10::IPictureQuality/default' failed: exit code 128
+section 3053 status 2
+section 3054 status 1
+section 3054 status 2
+section 3055 status 1
+section 3055 status 2
+section 3056 status 1
+section 3056 status 2
+done
+Duration of 'INCIDENT REPORT': 7.79s
+vendor.mediatek.hardware.pq@2.11::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.11::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.12::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.12::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.13::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.13::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.14::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.14::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.15::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.15::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.1::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.1::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.2::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.2::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.3::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.3::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.4::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.4::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.5::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.5::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.6::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.6::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.7::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.7::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.8::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.8::IPictureQuality/default' failed: exit code 128
+vendor.mediatek.hardware.pq@2.9::IPictureQuality/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.pq@2.9::IPictureQuality/default' failed: exit code 128
+debug() FAILED on vendor.mediatek.hardware.tranHwInfo@1.0::ITranHwInfo/default: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.mediatek.hardware.videotelephony@1.0::IVideoTelephony/default' failed: exit code 128
+vendor.nxp.nxpnfc@2.0::INxpNfc/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.nxp.nxpnfc@2.0::INxpNfc/default' failed: exit code 128
+vendor.tms.tmsnfc@1.0::ITmsNfc/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.tms.tmsnfc@1.0::ITmsNfc/default' failed: exit code 128
+vendor.transsion.hardware.security.deviceauthen@2.0::IDeviceAuthen2/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.security.deviceauthen@2.0::IDeviceAuthen2/default' failed: exit code 128
+vendor.transsion.hardware.security.hap@1.0::IHap/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.security.hap@1.0::IHap/default' failed: exit code 128
+vendor.transsion.hardware.security.trancriticalparavfy@1.0::ITranCriticalParaVfy/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.security.trancriticalparavfy@1.0::ITranCriticalParaVfy/default' failed: exit code 128
+debug() FAILED on vendor.transsion.hardware.tne.tneengine@1.0::ITne/default: Status(EX_TRANSACTION_FAILED): 'FAILED_TRANSACTION: '
+vendor.transsion.hardware.trancam.trancamserver@1.0::ITrancamserver/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.trancam.trancamserver@1.0::ITrancamserver/default' failed: exit code 128
+vendor.transsion.hardware.trandatacenter@1.0::ITranDataCenter/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.trandatacenter@1.0::ITranDataCenter/default' failed: exit code 128
+vendor.transsion.hardware.tranlog@1.0::ITranLog/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.tranlog@1.0::ITranLog/default' failed: exit code 128
+vendor.transsion.hardware.tranlogconfig@1.0::ITranLogConfig/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.tranlogconfig@1.0::ITranLogConfig/default' failed: exit code 128
+vendor.transsion.hardware.transtorage.storage@1.0::IStorage/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.hardware.transtorage.storage@1.0::IStorage/default' failed: exit code 128
+vendor.transsion.performance.sched@1.0::ITransSched/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.transsion.performance.sched@1.0::ITransSched/default' failed: exit code 128
+vendor.trustonic.tee.tui@1.0::ITui/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.trustonic.tee.tui@1.0::ITui/default' failed: exit code 128
+vendor.trustonic.tee@1.0::ITee/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.trustonic.tee@1.0::ITee/default' failed: exit code 128
+vendor.trustonic.tee@1.1::ITee/default does not exist, or no permission to connect.
+*** command 'lshal debug -E vendor.trustonic.tee@1.1::ITee/default' failed: exit code 128
+Duration of 'DUMP HALS': 8.46s
+Duration of 'Wait for ': 4.84s
+Adding dir /system/etc/vintf/ (recursive: 1)
+Adding dir /vendor/etc/vintf/ (recursive: 1)
+Adding dir /odm/etc/vintf/ (recursive: 1)
+Adding dir /product/etc/vintf/ (recursive: 1)
+Adding dir /system_ext/etc/vintf/ (recursive: 1)
+Adding dir /data/misc/nfc/logs (recursive: 1)
+taking late screenshot
+drop_root_user(): already running as Shell
+Screenshot saved on /data/user_de/0/com.android.shell/files/bugreports/bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02-png.tmp
+AddAnrTraceDir(): dump_traces_file=/data/user_de/0/com.android.shell/files/bugreports/dumptrace_p8K5ko, anr_traces_dir=/data/anr
+Dumping current ANR traces (/data/user_de/0/com.android.shell/files/bugreports/dumptrace_p8K5ko) to the main bugreport entry
+open(/data/misc/perfetto-traces/bugreport/systrace.pftrace): No such file or directory
+Failed to unlink file (/data/misc/perfetto-traces/bugreport/systrace.pftrace): No such file or directory
+Duration of 'DUMPSYS HIGH': 41.25s
+Duration of 'SERVICE HIGH connectivity': 2.82s
+Adding dir /data/misc/snapshotctl_log (recursive: 0)
+Error with service 'android.os.UpdateEngineService' while dumping PID: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineService' while dumping thread info: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineService' while dumping clients info: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineService' while dumping: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineStableService' while dumping PID: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineStableService' while dumping thread info: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineStableService' while dumping clients info: FAILED_TRANSACTION
+Error with service 'android.os.UpdateEngineStableService' while dumping: FAILED_TRANSACTION
+Can't find service: android.service.gatekeeper.IGateKeeperService
+Failed to start dump thread for service: android.service.gatekeeper.IGateKeeperService, status: -2Error with service 'hiber' while dumping: FAILED_TRANSACTION
+Error with service 'vendor.transsion.hardware.tranfacaidl.ITranfacAidl/default' while dumping: FAILED_TRANSACTION
+Can't find service: vold
+Failed to start dump thread for service: vold, status: -2Duration of 'DUMPSYS': 66.74s
+Adding dir /data/misc/bluetooth/logs (recursive: 1)
+Duration of 'APP SERVICES PLATFORM': 0.51s
+Duration of 'APP SERVICES NON-PLATFORM': 17.73s
+Duration of 'APP PROVIDERS PLATFORM': 2.41s
+Duration of 'APP PROVIDERS NON-PLATFORM': 36.33s
+Adding dir /linkerconfig (recursive: 1)
+Adding frozen processes from /sys/fs/cgroup
+Duration of 'DUMPSTATE': 178.88s
+Adding main entry (bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02.txt) from /data/user_de/0/com.android.shell/files/bugreports/bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02.tmp to .zip bugreport
+dumpstate id 1 finished around 2025/09/19 01:58:27 (205 s)
+Adding zip text entry main_entry.txt
+dumpstate_log.txt entry on zip file logged up to here
+
+Removing temporary file /data/user_de/0/com.android.shell/files/bugreports/bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02.tmp
+Going to copy file (/data/user_de/0/com.android.shell/files/bugreports/bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02-zip.tmp) to 10
+Going to copy file (/data/user_de/0/com.android.shell/files/bugreports/bugreport-X6882B-OP-UP1A.231005.007-2025-09-19-01-55-02-png.tmp) to 11
+Vibrate: 'cmd vibrator_manager synced -f -d dumpstate oneshot 75'
+Vibrate: 'cmd vibrator_manager synced -f -d dumpstate oneshot 75'
+Vibrate: 'cmd vibrator_manager synced -f -d dumpstate oneshot 75'
+Final progress: 1655/5000 (estimated 5000)
+Saving stats (total=1655, runs=1, average=1655) on /bugreports/dumpstate-stats.txt
+done (id 1)
