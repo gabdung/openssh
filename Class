@@ -1,0 +1,67 @@
+
+Disable Cache
+10 requests
+112.45 kB / 20.23 kB transferred
+Finish: 2.24 s
+DOMContentLoaded: 2.21 s
+load: 2.22 s
+	
+GET
+	https://crd2.life/cart/
+Status
+200
+OK
+VersionHTTP/1.1
+Transferred15.73 kB (108.93 kB size)
+Referrer Policystrict-origin-when-cross-origin
+Request PriorityHighest
+DNS ResolutionSystem
+
+	
+Connection
+	keep-alive
+Content-Encoding
+	gzip
+Content-Type
+	text/html; charset=UTF-8
+Date
+	Thu, 11 Sep 2025 02:10:37 GMT
+Server
+	nginx
+Set-Cookie
+	ci_cookies=WXyEQO4vV9XCKKr5L69efIl0qFhS3yHIw6peNDccXIEEc2DOtnXJGkBK%2FkTUHFOy5%2BRsha8j0TAtViytNpKIBGOpdMZi%2BhWNt2abwm7VgAb0YPgHeG2OtWvhUISpPElkh%2BlfJwgI0djpwnCg4G60zFxgw7TXyI0dyVRWomYCRBd1Sn0gvOveUdZTgzaXxBQhORFzgxye6BIBccqNGWm9kDjUzrABqRKtMi5ZrQ9VzCCWe4oh0NTS8UroIMKF%2B5o3z74wolkyxrdMzS3FZHdy64DfqmfEFTENPODDrzdsFaSFUFyQUYIcCp5EQo320j50s3RZCP5XyP6TQj%2FAUJFgXG53GApBp%2FgTU0yBpR1YAbig3FEO43LXYMjSoayd2InGf4a550ace527c598590a33f75ac29107954a48aa; expires=Fri, 12-Sep-2025 03:10:37 GMT; Max-Age=90000; path=/
+Set-Cookie
+	ci_cookies=QjPa9zqWei0Kqgls6XcjT03YVGFZFR9f8XenW7ONOrOGQ0qHrrY4a%2FzgwPXRxVm%2BQhiuYzDgp24qo0Om4jpfth7NboSHNmDzPiptk7vUYAVZMJ%2FUNwc6jR5vSQX6FcFsn1bhuBavEQpq%2BrLULkcYsCDZcA%2BBsaK61ZqajoW7Hfu1yDi65ZS1IO2aM2Z33uN3iD0I%2FY%2F43%2BmrcEsb1t0A2KH2yfz5fo0PeHQPJEREAOz35C5DvCjO%2B50xuy3jkW281kxWkOO3CjAtiBOzNo5IYId3pDvwf8M%2Barwby4P4va%2FGFjBUyaVCz3sErB49NQIzWSADDZYXU66nkvHs8HQ8j%2B0HhnfJqvV9a1gBto0E5sLFTjjAqLLopGLwz%2FVJnu7R664e33752ba7c291be443446767c0268bee124ed; expires=Fri, 12-Sep-2025 03:10:37 GMT; Max-Age=90000; path=/
+Strict-Transport-Security
+	max-age=63072000
+Transfer-Encoding
+	chunked
+	
+Accept
+	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding
+	gzip, deflate, br, zstd
+Accept-Language
+	en-GB,en;q=0.5
+Connection
+	keep-alive
+Cookie
+	ci_cookies=nde2WhjORmQEhZfYCCUI40Gj%2FWfrTICmt71NUKlRzqoZ3mAKPHNb0O0bjXYUcoU0Hwx10h9h19KMi1DNLG68YYBHS4vd7aY6o3UzrXVdzriLiKj4%2Bm4JWgNDAlDB7Z46d9AqdWO7DFC3XJeQ3H3ESfnPr%2BN1Mw6ZQL7Yspd%2BMcmWurCdKhmVWrL9Mi5ThOQA%2BEw2yCexhh0n8EoJKpNBopRTAAtKyK90%2BksSRMZqDiqeO6mwcdv9S01E1xeCdRNWzqHg6t%2BXcl6S9dWOpnaTfhJ%2BJT7kStHsS6vUTZFwf%2FJyO8nWTtRWnjg4hkdQrgAz1MPqNLhOOQCGVPqKFTWTyAh1AfCBW3ybvOjviUm3AH5ISpJE6P2%2B4ChPhmyILTZ1fe713f71593bba466a49dab9541e7829aa4463e6; PHPSESSID=9c065cggp4lf1co8n67bk7acr4; lang=en
+Host
+	crd2.life
+Priority
+	u=0, i
+Referer
+	https://crd2.life/cat/698
+Sec-Fetch-Dest
+	document
+Sec-Fetch-Mode
+	navigate
+Sec-Fetch-Site
+	same-origin
+Sec-Fetch-User
+	?1
+Upgrade-Insecure-Requests
+	1
+User-Agent
+	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
